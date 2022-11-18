@@ -14,11 +14,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
-      title: 'Reto 2',
+      title: 'Shopping Cart',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'Shopping Max'),
+      home: const MyHomePage(title: 'Shopping Cart'),
       debugShowCheckedModeBanner: false,
     );
   }
