@@ -25,8 +25,8 @@ class _menuState extends State<menu> {
                     backgroundImage: NetworkImage(
                         "http://acrasesores.es/wp-content/uploads/2016/03/foto-carnet-silueta.jpg"),
                   ),
-                  accountName: Text("Roger Stevens Hernandez"),
-                  accountEmail: Text("rshernandez@uninorte.edu.co")),
+                  accountName: Text("Name User"),
+                  accountEmail: Text("name_user@gmail.com")),
             ),
             Divider(),
             Expanded(
